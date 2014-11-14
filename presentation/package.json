@@ -1,0 +1,17 @@
+{
+  "name": "workshop-presentation-kit",
+  "version": "1.0.0",
+  "description": "A skeleton workshop presentation kit",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bran van der Meer <branmovic@gmail.com> (http://bran.name/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.2",
+    "marked": "^0.3.2",
+    "minimist": "^1.1.0",
+    "swig": "^1.4.2"
+  }
+}

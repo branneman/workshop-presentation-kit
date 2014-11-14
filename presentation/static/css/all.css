@@ -1,0 +1,10 @@
+@import url('github.css');
+
+main {
+    max-width: 50em;
+    margin: 0 auto;
+}
+
+.chapters li a {
+    text-decoration: none;
+}

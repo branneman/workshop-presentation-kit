@@ -1,0 +1,61 @@
+{
+  "main": {
+    "title": "Example presentation"
+  },
+  "chapters": [
+    {
+      "id": "0-intro",
+      "title": "0. Intro",
+      "pages": [
+        {
+          "id": "0-welcome",
+          "title": "0. Welcome"
+        },
+        {
+          "id": "1-agenda",
+          "title": "1. Agenda"
+        },
+        {
+          "id": "2-preparations",
+          "title": "2. Preparations"
+        }
+      ]
+    },
+    {
+      "id": "1-foo",
+      "title": "1. Foo",
+      "pages": [
+        {
+          "id": "0-agenda",
+          "title": "0. Agenda"
+        },
+        {
+          "id": "1-page",
+          "title": "1. Page"
+        },
+        {
+          "id": "2-conclusion",
+          "title": "2. Conclusion"
+        }
+      ]
+    },
+    {
+      "id": "2-bar",
+      "title": "2. Bar",
+      "pages": [
+        {
+          "id": "0-agenda",
+          "title": "0. Agenda"
+        },
+        {
+          "id": "1-page",
+          "title": "1. Page"
+        },
+        {
+          "id": "2-conclusion",
+          "title": "2. Conclusion"
+        }
+      ]
+    }
+  ]
+}
